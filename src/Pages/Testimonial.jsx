@@ -7,15 +7,14 @@ import { FiDivideCircle } from "react-icons/fi";
 
 const Testimonial = () => {
   return (
-    <div className="body home">
+    <div className="m-5 md:body home">
       <div className="mt-8">
         <p className="font-semibold text-xl">Clients Feedback</p>
         <h2 className="font-bold text-6xl">Customer testimonials</h2>
       </div>
-      <div className="flex gap-6 mt-12">
+      <div className="md:flex gap-6 mt-12">
         <div className="border border-green p-5">
           <div className="flex text-green gap-1">
-            <FaStar />
             <FaStar />
             <FaStar />
             <FaStar />
