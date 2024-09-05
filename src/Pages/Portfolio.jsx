@@ -1,5 +1,5 @@
 import React from "react";
-import Ahuse from "../assets/image.png";
+import Ahuse from "../assets/Ahuse.png";
 import App from "../assets/imagee.png";
 import easy from "../assets/images1.png";
 import { GoArrowUpRight } from "react-icons/go";
