@@ -1,5 +1,5 @@
 import React from "react";
-import Ahuse from "../assets/Ahuse.png";
+// import Ahuse from "../assets/Ahuse.png";
 import App from "../assets/imagee.png";
 import easy from "../assets/images1.png";
 import { GoArrowUpRight } from "react-icons/go";
@@ -22,7 +22,7 @@ const Portfolio = () => {
       </div>
       <div className=" md:flex md:gap-16 mt-12">
         <div className="">
-          <img src={Ahuse} alt="" />
+          {/* <img src={Ahuse} alt="" /> */}
           <h2 className="font-bold text-3xl">Ahuse</h2>
           <p className="text-xl	">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
